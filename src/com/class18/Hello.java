@@ -16,7 +16,7 @@ public class Hello {
 			obj.sayHelloDifferentLanguage("USA");
 			obj.sayHelloDifferentLanguage("Paraguay");
 		
-			obj. sayNameAndAge("Jack" , 54);
+			obj.sayNameAndAge("Jack" , 54);
 			obj.sayNameAndAge("jade", 1);
 			
 			obj.isSnowing(true);
