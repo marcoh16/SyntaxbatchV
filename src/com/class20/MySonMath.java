@@ -1,7 +1,12 @@
 package com.class20;
 
 public class MySonMath {
-	String name;
+	//this 4 variables are ACCESS MODIFIERS
+	public String name;
+	String phone;
+	private String SSN;
+	protected String birthday;
+	//////////////////////
 	
 	public void add1(){
 		int num1 = 2;
@@ -19,7 +24,7 @@ public class MySonMath {
 		int result = num1 + num2;
 		return result;
 	}
-	private int add4(int num1, int num2) {
+	protected int add4(int num1, int num2) {
 		
 		int result = num1 + num2;
 		return result;

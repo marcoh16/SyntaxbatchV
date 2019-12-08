@@ -7,6 +7,9 @@ public class Marco {
 		MySonMath obj = new MySonMath();
 		
 		obj.add1();
+		obj.name ="marco";
+		obj.phone = "573-444-2222";
+		
 	}
 
 }
