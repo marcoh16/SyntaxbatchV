@@ -43,6 +43,8 @@ public class LinkedLIstDemo2 {
 		String newNumber = num.toString().replace("100", "200");
 		System.out.println(newNumber);
 		
+		
+		
 	}
 	
 
